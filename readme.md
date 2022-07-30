@@ -5,3 +5,4 @@
 * I have installed c extention in vscode
 * for Compiling Run : gcc filename.c
 * for Running the programm: ./a.exe (./ refer to the current directory)
+* Updating this repo daily
